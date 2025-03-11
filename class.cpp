@@ -21,7 +21,6 @@ class student
 };
 
 
-
 int main()
 {
 student s1(28,77.43,"vani");
