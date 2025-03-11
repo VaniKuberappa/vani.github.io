@@ -23,7 +23,5 @@ if (flag==0)
 {
     cout<<"number is prime:"<<endl;
 }
-
-
     return 0;
 }
