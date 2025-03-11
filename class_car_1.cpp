@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 class car{
 public:
  int year;
@@ -15,7 +14,6 @@ public:
      color = c;
      cout<<"the model is"<<m<<"year manufactured is"<<y<<"color is"<<c;
  }
-
 };
 
 int main()
