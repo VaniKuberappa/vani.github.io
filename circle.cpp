@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 #define pi 3.14
 
 class circle{
@@ -17,16 +16,14 @@ class circle{
     {
        float area = pi * r * r;
         cout<<"are of a circle is:"<< area <<endl;
-    }
-    
-    
+    }   
 };
 
-int main(void){
-     
-     circle c1;
-     int radius = 7;
-     c1.setradius(radius);
-     c1.area();
-    return 0;
+int main(void)
+{
+  circle c1;
+  int radius = 7;
+  c1.setradius(radius);
+  c1.area();
+  return 0;
 }
