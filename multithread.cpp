@@ -10,7 +10,6 @@ void foo(int z)
     }
 }
 
-
 class thread_obj
 {
     public:
