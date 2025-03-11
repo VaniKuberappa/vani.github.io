@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 class point
 {
 
@@ -26,7 +25,6 @@ int main()
 {
 
     point p1(10,50);
-
     cout<<"p1.x ="<<p1.getx()<<" , p1.y=" <<p1.gety();
     return 0;
 }
