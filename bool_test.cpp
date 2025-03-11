@@ -18,7 +18,6 @@ bool test(int a)
  }
  }
 
-
 int main()
 {
     int x;
