@@ -43,10 +43,6 @@ float calculate_area() override
 int main()
 {
 circle c(2)
- rectangle r(3,4);
-
-
-
-
-    return 0;
+rectangle r(3,4);
+return 0;
 }
