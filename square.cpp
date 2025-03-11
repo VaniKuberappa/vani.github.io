@@ -22,8 +22,6 @@ void square3(int& n)
 }
 int main()
 {
-
 int n1 =8;
-
-    return 0;
+return 0;
 }
