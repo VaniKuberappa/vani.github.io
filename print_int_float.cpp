@@ -16,7 +16,5 @@ int main()
  float f =3.4;
  print(v);
  print(f);
-
-
-    return 0;
+ return 0;
 }
