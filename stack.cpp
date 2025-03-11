@@ -48,8 +48,6 @@ class stack
 
 };
 
-
-
 int main()
 {
 
@@ -64,9 +62,6 @@ int main()
     //intstack.pop();
 
     //intstack.displaytop();
-
-
-
 
     return 0;
 }
