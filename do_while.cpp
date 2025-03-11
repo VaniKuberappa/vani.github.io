@@ -24,13 +24,7 @@ int main()
     else
         cout<<"quit the selection"<<endl;          
 
-
-
  } while (selection =='q');
  
-
-
-
-
-    return 0;
+ return 0;
 }
