@@ -9,7 +9,7 @@ class test
 
     void func(int x)
     {
-        cout<<"value of ststic x is:"<<test::x;
+        cout<<"value of static x is:"<<test::x;
         cout<<"\n value of local x is"<<x;
     }
 };
