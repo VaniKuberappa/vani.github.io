@@ -75,10 +75,9 @@ int main()
     queue.enqueue(5);
     queue.dequeue();
     queue.dequeue();
-      queue.dequeue();
-       queue.dequeue();
-        queue.dequeue();
-
-return 0;
+    queue.dequeue();
+    queue.dequeue();
+    queue.dequeue();
+    return 0;
 
 }
