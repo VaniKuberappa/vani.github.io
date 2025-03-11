@@ -28,7 +28,6 @@ class rectangle
 
 int main()
 {
-
     rectangle r;
     int l =2;
     int w =4;
