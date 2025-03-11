@@ -46,9 +46,6 @@ class bank
  };
 
 
-
-
-
 int main()
 {
 bank b1(1234,0,5000);
