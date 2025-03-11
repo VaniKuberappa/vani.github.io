@@ -31,11 +31,8 @@ void write()
          }
          else{
             cerr<<"unable to write:"<<endl;
-         }
-        
+         }   
     }
-
-
 };
 
 int main()
@@ -44,9 +41,5 @@ int main()
 studentrecord s1("vani",12,72.0);
 s1.read();
 s1.write();
-
-
-
-
-    return 0;
+return 0;
 }
