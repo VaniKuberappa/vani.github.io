@@ -28,7 +28,7 @@ class rectangle : public shape
 {
     public:
 
-    rectangle(int rd ,int l, int b):shape(rd,l,b){}
+  rectangle(int rd ,int l, int b):shape(rd,l,b){}
   float area() override
  {
     return length*breadth;
