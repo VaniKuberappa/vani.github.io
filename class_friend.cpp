@@ -3,7 +3,6 @@ using namespace std;
 
 class base;
 
-
 class anotherclass{
     public:
     void memberfunction(base& obj);
