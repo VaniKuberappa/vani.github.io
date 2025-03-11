@@ -50,7 +50,7 @@ class circle: public shape
 class rectangle:public shape
 {
     public:
-rectangle (float length, float breadth):shape(0,length, breadth){}
+    rectangle (float length, float breadth):shape(0,length, breadth){}
 
     void area() override
     {
