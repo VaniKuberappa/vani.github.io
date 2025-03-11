@@ -12,9 +12,6 @@ int main()
     cout<<arr[i]<<endl;
  }
 
-
-
 delete[] arr;
-    
-    return 0;
+ return 0;
 }
