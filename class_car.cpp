@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-
-class car{
+class car
+{
 public:
  int year;
  string model;
